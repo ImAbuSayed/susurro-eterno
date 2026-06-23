@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Susurro eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-eterno/) |
+| **Get License** | [Obtain a Music License for Susurro eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tu mirada no sabe mentir
+> Este susurro eterno te invita a sentir
+> I need your body bailando en la luz
+> Nadie en la disco se mueve como tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
