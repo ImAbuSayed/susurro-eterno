@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-eterno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Susurro eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-eterno/) |
+| **Get License** | [Secure Licensing Rights for Susurro eterno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-eterno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ee9bfc2ab23da47bb712d3ffc66d92b3419d5f696771264907ce197098161b04` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

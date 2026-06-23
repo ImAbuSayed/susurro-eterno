@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro eterno
+
+This log tracks the cryptographic history and versioning for the song **Susurro eterno** (susurro-eterno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T11:34:37.776521 | `v1` | `ee9bfc2ab23da47bb712d3ffc66d92b3419d5f696771264907ce197098161b04` | `b2c91b7730eac6c9fe7d250d212e1373507f58cb8b6d5b9574fbfa84acdbde02` | `2026-06-23_susurro-eterno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
